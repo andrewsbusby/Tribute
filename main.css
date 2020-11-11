@@ -1,0 +1,39 @@
+html {background-color:rgb(44, 42, 44)}
+            h1 {color: white;
+                font-size: 3em;
+                text-align: center;}
+            .hero {background-color: rgb(118, 121, 124);
+            background-image: url(../img_6467.jpg);
+            width: 80vw;
+            height: 75vh;
+            background-size: cover;
+            padding-top: 10vh;
+            margin: 5vw;}
+            div {width: 50vw;
+                color: white;}
+            p {
+                display: flex;
+                flex-direction: column;
+                text-align: center;
+            font-size: 1em;
+            padding-left: 150px;}
+            .pic {
+                width: 65vw;
+                height: 75vh;
+                margin: 5vw;}
+        
+            .home {display: flex;
+            flex-direction: row;
+            flex: 1;
+            padding-bottom: 5vh;
+        }
+           .home-wrap {
+               overflow: hidden;
+               max-width: 960px;
+               margin: auto;
+           }
+            .par {
+                box-sizing: border-box;
+                float: left;  
+                font-size: 1.2em;  
+            }
