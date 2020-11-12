@@ -7,8 +7,8 @@ html {background-color:rgb(44, 42, 44)}
             width: 80vw;
             height: 75vh;
             background-size: cover;
-            padding-top: 10vh;
-            margin: 5vw;}
+            padding-top: 5vh;
+            margin: 10vw;}
             div {width: 50vw;
                 color: white;}
             p {
@@ -20,7 +20,8 @@ html {background-color:rgb(44, 42, 44)}
             .pic {
                 width: 65vw;
                 height: 75vh;
-                margin: 5vw;}
+                margin: 15vw;
+            }
         
             .home {display: flex;
             flex-direction: row;
