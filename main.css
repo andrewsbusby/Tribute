@@ -1,5 +1,5 @@
 html {background-color:rgb(44, 42, 44)}
-            h1 {color: white;
+            h1 {color: rgb(51, 88, 119);
                 font-size: 3em;
                 text-align: center;}
             .hero {background-color: rgb(118, 121, 124);
@@ -17,10 +17,33 @@ html {background-color:rgb(44, 42, 44)}
                 text-align: center;
             font-size: 1em;
             padding-left: 150px;}
+            .con{
+                text-align: center;
+                font-size: 1.2em;
+                padding-left: 175px;
+                margin-bottom: 45px;
+                margin-left: 230px;
+                margin-right: -150px;
+            }
+            .fam{
+                display: flex;
+                flex-direction: row;
+                background-color: rgb(51, 88, 119);
+                width: 70vw;
+                height: 90vh;
+                margin-bottom: 25vh;
+            }
+            span{
+                color: white;
+                margin-top: 15vh;
+                text-align: center;
+                font-size: 1.2em;
+            }
             .pic {
                 width: 65vw;
                 height: 75vh;
-                margin: 15vw;
+                margin: 10vw;
+                margin-bottom: 25vh;
             }
         
             .home {display: flex;
