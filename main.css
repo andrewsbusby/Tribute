@@ -3,7 +3,7 @@ html {background-color:rgb(44, 42, 44)}
                 font-size: 3em;
                 text-align: center;}
             .hero {background-color: rgb(118, 121, 124);
-            background-image: href="img_6467.jpg";
+            background-image: url("img_6467.jpg");
             width: 80vw;
             height: 75vh;
             background-size: cover;
